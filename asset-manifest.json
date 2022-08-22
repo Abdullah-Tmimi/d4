@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dafor/static/css/main.6e188d7f.css",
-    "main.js": "/dafor/static/js/main.741c9fc5.js",
+    "main.js": "/dafor/static/js/main.b03c2c97.js",
     "static/media/trash.svg": "/dafor/static/media/trash.b23c51c310bb41240827604598feaf9a.svg",
     "static/media/arrow_up.svg": "/dafor/static/media/arrow_up.1fd9e77ac6dbec47bc751b27f0cf1029.svg",
     "index.html": "/dafor/index.html",
     "main.6e188d7f.css.map": "/dafor/static/css/main.6e188d7f.css.map",
-    "main.741c9fc5.js.map": "/dafor/static/js/main.741c9fc5.js.map"
+    "main.b03c2c97.js.map": "/dafor/static/js/main.b03c2c97.js.map"
   },
   "entrypoints": [
     "static/css/main.6e188d7f.css",
-    "static/js/main.741c9fc5.js"
+    "static/js/main.b03c2c97.js"
   ]
 }
